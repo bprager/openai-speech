@@ -1,2 +1,4 @@
 .env
-input.wav
+*.wav
+*.mp3
+cookies.json
